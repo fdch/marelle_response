@@ -1,0 +1,12 @@
+x_rot-set 10;
+y_rot-set -5;
+z_rot-set 0;
+x_pos-set -25;
+y_pos-set 0;
+z_pos-set -100;
+f_res-set 3.96116;
+a_res-set 275.842;
+t_res-set 2307.73;
+draw_type-set 0;
+PointSize-set 1;
+frame-set 1;

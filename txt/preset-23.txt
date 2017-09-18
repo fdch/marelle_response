@@ -1,0 +1,6 @@
+rot 30 -90 0;
+pos -31 0 -4;
+res 10.0818 0.1 43.5535;
+type draw point;
+size 100000;
+gemwin view 0 0 15 0 0 0 0 -1 1, perspec -1 1 -1 1 32 50;

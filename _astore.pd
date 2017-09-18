@@ -1,0 +1,4 @@
+#N canvas 0 22 450 300 12;
+#X obj 68 105 array define t\$1;
+#X obj 67 33 inlet;
+#X text 98 74 just an easy way to create many arrays;

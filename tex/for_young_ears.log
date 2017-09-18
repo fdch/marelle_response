@@ -1,0 +1,924 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 SEP 2017 00:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**for_young_ears.tex
+(./for_young_ears.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ascii.def
+File: ascii.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/tipx.sty
+Package: tipx 2003/01/01 TIPX version 1.2
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ifsym/ifsym.sty
+Package: ifsym 2000/04/18 I.Kloeckl
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count88
+\calc@Bcount=\count89
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count90
+\calc@Cskip=\skip45
+)
+\c@ifsymcnt=\count91
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count92
+\Gm@cntv=\count93
+\c@Gm@tempcnt=\count94
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count95
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+\AM@pagewidth=\dimen116
+\AM@pageheight=\dimen117
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@global@opts=\toks18
+\AM@toc@title=\toks19
+\c@AM@survey=\count96
+\AM@templatesizebox=\box27
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box28
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen118
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen119
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks21
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks22
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks23
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2016/04/07 v1.8p multicolumn formatting (FMi)
+\c@tracingmulticols=\count109
+\mult@box=\box31
+\multicol@leftmargin=\dimen127
+\c@unbalance=\count110
+\c@collectmore=\count111
+\doublecol@number=\count112
+\multicoltolerance=\count113
+\multicolpretolerance=\count114
+\full@width=\dimen128
+\page@free=\dimen129
+\premulticols=\dimen130
+\postmulticols=\dimen131
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box32
+\last@line=\box33
+\maxbalancingoverflow=\dimen132
+\mult@rightbox=\box34
+\mult@grightbox=\box35
+\mult@gfirstbox=\box36
+\mult@firstbox=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\c@columnbadness=\count115
+\c@finalcolumnbadness=\count116
+\last@try=\dimen133
+\multicolovershoot=\dimen134
+\multicolundershoot=\dimen135
+\mult@nat@firstbox=\box55
+\colbreak@box=\box56
+\mc@col@check@num=\count117
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen136
+\extrarowheight=\dimen137
+\NC@list=\toks25
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count118
+\ST@wd=\dimen138
+\ST@rightskip=\skip53
+\ST@leftskip=\skip54
+\ST@parfillskip=\skip55
+\ST@pageleft=\dimen139
+\ST@headht=\dimen140
+\ST@tailht=\dimen141
+\ST@pagesofar=\dimen142
+\ST@pboxht=\dimen143
+\ST@lineht=\dimen144
+\ST@stretchht=\dimen145
+\ST@prevht=\dimen146
+\ST@toadd=\dimen147
+\ST@dimen=\dimen148
+\ST@pbox=\box57
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+No file for_young_ears.aux.
+\openout1 = `for_young_ears.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 31.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box58
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen149
+\scratchbox=\box59
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen150
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 33.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+<../jpg/preset-50-9.jpg, id=1, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-9.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-9.jpg>
+Package pdftex.def Info: ../jpg/preset-50-9.jpg used on input line 55.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-10.jpg, id=2, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-10.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-10.jpg>
+Package pdftex.def Info: ../jpg/preset-50-10.jpg used on input line 56.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 55--57
+[][][] 
+ []
+
+<../jpg/preset-50-1.jpg, id=3, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-1.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-1.jpg>
+Package pdftex.def Info: ../jpg/preset-50-1.jpg used on input line 59.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-2.jpg, id=4, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-2.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-2.jpg>
+Package pdftex.def Info: ../jpg/preset-50-2.jpg used on input line 60.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 59--61
+[][][] 
+ []
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2 <../jpg/preset-50-9.jpg> <../jpg/preset-50-10.jpg> <../jpg/preset-50-1.jpg> 
+<../jpg/preset-50-2.jpg>] <../jpg/preset-50-11.jpg, id=21, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-11.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-11.jpg>
+Package pdftex.def Info: ../jpg/preset-50-11.jpg used on input line 103.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-12.jpg, id=22, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-12.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-12.jpg>
+Package pdftex.def Info: ../jpg/preset-50-12.jpg used on input line 104.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 103--105
+[][][] 
+ []
+
+<../jpg/preset-50-3.jpg, id=23, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-3.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-3.jpg>
+Package pdftex.def Info: ../jpg/preset-50-3.jpg used on input line 108.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-4.jpg, id=24, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-4.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-4.jpg>
+Package pdftex.def Info: ../jpg/preset-50-4.jpg used on input line 109.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 108--110
+[][][] 
+ []
+
+<../jpg/foryoungears-img001.jpg, id=25, 1314.9125pt x 550.055pt>
+File: ../jpg/foryoungears-img001.jpg Graphic file (type jpg)
+
+<use ../jpg/foryoungears-img001.jpg>
+Package pdftex.def Info: ../jpg/foryoungears-img001.jpg used on input line 121.
+
+(pdftex.def)             Requested size: 216.81pt x 90.688pt.
+ [3 <../jpg/preset-50-11.jpg> <../jpg/preset-50-12.jpg> <../jpg/preset-50-3.jpg
+> <../jpg/preset-50-4.jpg>] [4 <../jpg/foryoungears-img001.jpg>] <../pdf/sub-5.
+pdf, id=33, 714.67pt x 1275.76625pt>
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-5.pdf>
+Package pdftex.def Info: ../pdf/sub-5.pdf used on input line 268.
+(pdftex.def)             Requested size: 714.66824pt x 1275.76315pt.
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+ <use ../pdf/sub-5.pdf>
+Package pdftex.def Info: ../pdf/sub-5.pdf used on input line 268.
+(pdftex.def)             Requested size: 714.66824pt x 1275.76315pt.
+
+<../pdf/sub-5.pdf, id=36, page=1, 714.67pt x 1275.76625pt>
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-5.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-5.pdf, page1 used on input line 268.
+(pdftex.def)             Requested size: 714.66824pt x 1275.76315pt.
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+ <use ../pdf/sub-5.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-5.pdf, page1 used on input line 268.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-5.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-5.pdf, page1 used on input line 268.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+ <use ../pdf/sub-5.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-5.pdf, page1 used on input line 268.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+File: ../pdf/sub-5.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-5.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-5.pdf, page1 used on input line 268.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+ [5 <../pdf/sub-5.pdf, page is rotated 270 degrees>] <../jpg/preset-50-13.jpg, 
+id=52, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-13.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-13.jpg>
+Package pdftex.def Info: ../jpg/preset-50-13.jpg used on input line 276.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-14.jpg, id=53, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-14.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-14.jpg>
+Package pdftex.def Info: ../jpg/preset-50-14.jpg used on input line 277.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 276--278
+[][][] 
+ []
+
+<../jpg/preset-50-5.jpg, id=54, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-5.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-5.jpg>
+Package pdftex.def Info: ../jpg/preset-50-5.jpg used on input line 280.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-6.jpg, id=55, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-6.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-6.jpg>
+Package pdftex.def Info: ../jpg/preset-50-6.jpg used on input line 281.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 280--282
+[][][] 
+ []
+
+[6 <../jpg/preset-50-13.jpg> <../jpg/preset-50-14.jpg> <../jpg/preset-50-5.jpg>
+ <../jpg/preset-50-6.jpg>]
+<../jpg/preset-50-15.jpg, id=60, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-15.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-15.jpg>
+Package pdftex.def Info: ../jpg/preset-50-15.jpg used on input line 312.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-16.jpg, id=61, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-16.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-16.jpg>
+Package pdftex.def Info: ../jpg/preset-50-16.jpg used on input line 313.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 312--314
+[][][] 
+ []
+
+<../jpg/preset-50-7.jpg, id=62, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-7.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-7.jpg>
+Package pdftex.def Info: ../jpg/preset-50-7.jpg used on input line 316.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-50-8.jpg, id=63, 1284.8pt x 722.7pt>
+File: ../jpg/preset-50-8.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-50-8.jpg>
+Package pdftex.def Info: ../jpg/preset-50-8.jpg used on input line 317.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 316--318
+[][][] 
+ []
+
+<../jpg/foryoungears-img002.png, id=64, 2007.5pt x 381.425pt>
+File: ../jpg/foryoungears-img002.png Graphic file (type png)
+
+<use ../jpg/foryoungears-img002.png>
+Package pdftex.def Info: ../jpg/foryoungears-img002.png used on input line 329.
+
+(pdftex.def)             Requested size: 216.81pt x 41.18863pt.
+ [7 <../jpg/preset-50-15.jpg> <../jpg/preset-50-16.jpg> <../jpg/preset-50-7.jpg
+> <../jpg/preset-50-8.jpg> <../jpg/foryoungears-img002.png>] <../jpg/foryoungea
+rs-img004.png, id=74, 2007.5pt x 2007.5pt>
+File: ../jpg/foryoungears-img004.png Graphic file (type png)
+
+<use ../jpg/foryoungears-img004.png>
+Package pdftex.def Info: ../jpg/foryoungears-img004.png used on input line 341.
+
+(pdftex.def)             Requested size: 109.53983pt x 109.53983pt.
+ [8 <../jpg/foryoungears-img004.png>]
+<../pdf/sub-6.pdf, id=80, 714.67pt x 1275.76625pt>
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+ <use ../pdf/sub-6.pdf>
+Package pdftex.def Info: ../pdf/sub-6.pdf used on input line 353.
+(pdftex.def)             Requested size: 714.66824pt x 1275.76315pt.
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-6.pdf>
+Package pdftex.def Info: ../pdf/sub-6.pdf used on input line 353.
+(pdftex.def)             Requested size: 714.66824pt x 1275.76315pt.
+
+<../pdf/sub-6.pdf, id=83, page=1, 714.67pt x 1275.76625pt>
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-6.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-6.pdf, page1 used on input line 353.
+(pdftex.def)             Requested size: 714.66824pt x 1275.76315pt.
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+ <use ../pdf/sub-6.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-6.pdf, page1 used on input line 353.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-6.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-6.pdf, page1 used on input line 353.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+ <use ../pdf/sub-6.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-6.pdf, page1 used on input line 353.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+File: ../pdf/sub-6.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-6.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-6.pdf, page1 used on input line 353.
+(pdftex.def)             Requested size: 445.59895pt x 795.44423pt.
+ [9 <../pdf/sub-6.pdf, page is rotated 90 degrees>] <../jpg/foryoungears-img003
+.jpg, id=99, 1579.9025pt x 585.18625pt>
+File: ../jpg/foryoungears-img003.jpg Graphic file (type jpg)
+
+<use ../jpg/foryoungears-img003.jpg>
+Package pdftex.def Info: ../jpg/foryoungears-img003.jpg used on input line 358.
+
+(pdftex.def)             Requested size: 216.81pt x 80.3004pt.
+ [10 <../jpg/foryoungears-img003.jpg>]
+<../jpg/preset-31-elsa-7100000.jpg, id=103, 1284.8pt x 722.7pt>
+File: ../jpg/preset-31-elsa-7100000.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-31-elsa-7100000.jpg>
+Package pdftex.def Info: ../jpg/preset-31-elsa-7100000.jpg used on input line 3
+88.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+<../jpg/preset-56-elsa-7300000.jpg, id=104, 1284.8pt x 722.7pt>
+File: ../jpg/preset-56-elsa-7300000.jpg Graphic file (type jpg)
+
+<use ../jpg/preset-56-elsa-7300000.jpg>
+Package pdftex.def Info: ../jpg/preset-56-elsa-7300000.jpg used on input line 3
+89.
+(pdftex.def)             Requested size: 229.8775pt x 129.29742pt.
+
+Overfull \hbox (229.8775pt too wide) in paragraph at lines 388--390
+[][][] 
+ []
+
+<../pdf/sub-7.pdf, id=105, 1275.76625pt x 714.67pt>
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+ <use ../pdf/sub-7.pdf>
+Package pdftex.def Info: ../pdf/sub-7.pdf used on input line 412.
+(pdftex.def)             Requested size: 1275.76315pt x 714.66824pt.
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-7.pdf>
+Package pdftex.def Info: ../pdf/sub-7.pdf used on input line 412.
+(pdftex.def)             Requested size: 1275.76315pt x 714.66824pt.
+
+<../pdf/sub-7.pdf, id=108, page=1, 1275.76625pt x 714.67pt>
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-7.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-7.pdf, page1 used on input line 412.
+(pdftex.def)             Requested size: 1275.76315pt x 714.66824pt.
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+ <use ../pdf/sub-7.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-7.pdf, page1 used on input line 412.
+(pdftex.def)             Requested size: 614.65791pt x 344.32448pt.
+ [11]
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-7.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-7.pdf, page1 used on input line 412.
+(pdftex.def)             Requested size: 614.65791pt x 344.32448pt.
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+ <use ../pdf/sub-7.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-7.pdf, page1 used on input line 412.
+(pdftex.def)             Requested size: 614.65791pt x 344.32448pt.
+File: ../pdf/sub-7.pdf Graphic file (type pdf)
+
+<use ../pdf/sub-7.pdf, page 1>
+Package pdftex.def Info: ../pdf/sub-7.pdf, page1 used on input line 412.
+(pdftex.def)             Requested size: 614.65791pt x 344.32448pt.
+ [12 <../pdf/sub-7.pdf>] [13 <../jpg/preset-31-elsa-7100000.jpg> <../jpg/preset
+-56-elsa-7300000.jpg>] (./for_young_ears.aux) ) 
+Here is how much of TeX's memory you used:
+ 7035 strings out of 493014
+ 96222 string characters out of 6133351
+ 177047 words of memory out of 5000000
+ 10376 multiletter control sequences out of 15000+600000
+ 21743 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,18n,43p,1557b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-d
+ist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2016/texmf-di
+st/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texmf-dist/font
+s/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
+/cm-super/sfti0800.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/c
+m-super/sfti1000.pfb>
+Output written on for_young_ears.pdf (13 pages, 4365149 bytes).
+PDF statistics:
+ 177 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+

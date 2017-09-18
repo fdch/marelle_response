@@ -1,0 +1,6 @@
+#N canvas 512 190 450 300 16;
+#X obj 35 150 print;
+#X msg 35 99 Y porque se ha salido de la infancia;
+#X obj 35 47 loadbang;
+#X connect 1 0 0 0;
+#X connect 2 0 1 0;
