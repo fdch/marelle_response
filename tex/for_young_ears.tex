@@ -32,7 +32,7 @@
 
 \maketitle
 
-A black box room packed with a rather large audience surrounded by 16 Genelec speakers set as two rings of 8, with an elevation of about 1.5 meters. I arrived just in time for the concert and there were barely any seats left. I sat at the back with my head right behind speaker no. 5 --a quite `bad' location to listen to spatialized music inside a dome. I had the old fear one might encounter in an electroacoustic concert if one is not sitting around the `sweet spot'. Despite my fears --and this is why I am writing this--, Justel started playing \textit{Marelle}\footnote{\textit{Marelle or the Moments of Life} was premiered on March 29, 2017, \'ElectroBelge, Espace Senghor, Brussels (Belgium) [https://www.electrocd.com/en/oeuvre/42489/Elsa\_Justel/Marelle\_or\_the\_Moments\_of\_Life]. The performance mentioned here happened on June 2017, at NYCEMF} and I could listen to her music inside the entire space in front of me. How did she achieve a complete multidimensional image that can be grasped from a point other than the center of the listening space? To what extent is this composition inherent to a particular spatial distribution? How can I go about showing this? This text is my response to her use of space. 
+A black box room packed with a rather large audience surrounded by 16 Genelec speakers set as two rings of 8, with an elevation of about 1.5 meters. I arrived just in time for the concert and there were barely any seats left. I sat at the back with my head right behind speaker no. 5 --a quite `bad' location to listen to spatialized music inside a dome. I had the old fear one might encounter in an electroacoustic concert if one is not sitting around the `sweet spot'.\footnote{``From the vantage point of the sweet spot, the listener is not only able to perceive spatial imagery at the loudspeaker locations, but also phantom images in between'' (Kendall, 2010). Based on `precedence' (``the auditory system's mechanism for clarifying directional hearing in reverberant environments''), the size of the area between speakers ``makes a huge difference for listeners outside the sweet spot''. However, he continues, ``signal processing can reshape the situation'' by ``image dispersion'' and ``signal decorrelation''. } Despite my fears --and this is why I am writing this--, Dr. Justel started playing \textit{Marelle}\footnote{\textit{Marelle or the Moments of Life} was premiered on March 29, 2017, \'ElectroBelge, Espace Senghor, Brussels (Belgium) [https://www.electrocd.com/en/oeuvre/42489/Elsa\_Justel/Marelle\_or\_the\_Moments\_of\_Life]. The performance mentioned here happened on June 2017, at NYCEMF} and I could listen to her music inside the entire space in front of me. How did she achieve a complete multidimensional image that can be grasped from a point other than the center of the listening space? To what extent is this composition inherent to a particular spatial distribution? How can I go about showing this? This text is my response to her use of space. 
 
 
 \begin{flushright}
@@ -42,7 +42,7 @@ A black box room packed with a rather large audience surrounded by 16 Genelec sp
 
 
 
-When Ms. Justel kindly sent me the stems, for the purposes of this response, she explained that the tracks should be assigned in pairs in the space. She emphasized this was of extreme importance since there would be moments in the piece where unwanted gaps in the aural image would emerge should the tracks be assigned in a circular manner. In order to visualize this, I made two puredata (Pd) patches to analyze and plot time-varying spectral images of each track and went ahead and placed them in pairs and in circles. I only show here the paired view.\footnote{The result of assigning a circular count to the track numbers instead of a paired one mostly affects the sides of the aural image. This means that while the front is left unchanged (1-2, 9-10), and the back is swapped (8-7, 16-15), the stereo image of the sides is reconfigured in this way: the right side of the remaining pairs are placed as a stereo image in itself, and the left side of the remaining pairs are placed as another stereo image. This is indeed a very different result in the stereo pairing.}
+When Dr. Justel kindly sent me the stems, for the purposes of this response, she explained that the tracks should be assigned in pairs in the space. She emphasized this was of extreme importance since there would be moments in the piece where unwanted gaps in the aural image would emerge should the tracks be assigned in a circular manner. In order to visualize this, I made two puredata (Pd) patches to analyze and plot time-varying spectral images of each track and went ahead and placed them in pairs and in circles. I only show here the paired view.\footnote{The result of assigning a circular count to the track numbers instead of a paired one mostly affects the sides of the aural image. This means that while the front is left unchanged (1-2, 9-10), and the back is swapped (8-7, 16-15), the stereo image of the sides is reconfigured in this way: the right side of the remaining pairs are placed as a stereo image in itself, and the left side of the remaining pairs are placed as another stereo image. This is indeed a very different result in the stereo pairing.}
 
 \begin{center}
 
@@ -59,7 +59,7 @@ En lo alto est\'{a} el Cielo, abajo est\'{a} la Tierra, es muy dif\'{i}cil llega
     \includegraphics[width=\linewidth]{preset-50-1.jpg}%\par
     \includegraphics[width=\linewidth]{preset-50-2.jpg}%\par
 \end{multicols}
-\caption{Tracks 1-2 (below) and 9-10 (above).}
+\caption{Tracks 1-2 (below) and 9-10 (above). See Figure 2 for reference.}
 \end{figure*}
 
 
@@ -109,7 +109,7 @@ A second drawback of the Fourier based method is known as the ``tradeoff between
     \includegraphics[width=\linewidth]{preset-50-4.jpg}%\par 
 \end{multicols}
     
-\caption{Tracks 3-4 (below) and 11-12 (above).}
+\caption{Tracks 3-4 (below) and 11-12 (above). Frequency is in the X-axis, the leftmost being the highest frequencies (around 16 kHz); Amplitude is in the Y axis, scaled to show the loudest peaks as upward saliences; and Time is in the Z axis from back to front, showing a total duration of 12 minutes.}
 \end{figure*}
 
 
@@ -118,7 +118,7 @@ Finally, the major drawback in using [sigmund\~{}] comes from a rather ambitious
 
 \begin{figure*}
 \begin{center}
-\includegraphics[width=3in]{foryoungears-img001.jpg}
+\includegraphics[width=1.5in]{speaker-positions.jpg}
 \end{center}
 \caption{Speaker Positions}
 \end{figure*}
@@ -139,8 +139,7 @@ Finally, the major drawback in using [sigmund\~{}] comes from a rather ambitious
 \tablehead{}
 \tabletail{}
 \tablelasttail{}
-
-\topcaption{Time|Frequency Tradeoffs. The 3rd column includes the 2048 window size that was used for visualization.}
+\bottomcaption{Time|Frequency Tradeoffs. This table shows the result of four analysis performed for all tracks in different window sizes. For all these analysis the peak maximum is the same (10) and the "Peak Convergence" (the difference between the targetted peaks and the actual peak average) is shown as a function of the window size. Surprisingly, the greatest margin falls into a window size of 8192, not 16384, and the least margen belonged to a size of 1024. The chosen window size was ultimately 2048, as a compromise between performance and peak convergence.}
 \begin{supertabular}{|m{1.4108598in}|m{0.9420598in}|m{0.9837598in}|m{1.0566599in}|m{1.0775598in}|}
 \hline
 Sample Length &
@@ -259,9 +258,9 @@ Peak Convergence &
 \raggedleft 1.077974744 &
 \raggedleft 0.9792352978 &
 \raggedleft\arraybslash 0.9794569153\\\hline
-
 \end{supertabular}
 \end{flushleft}
+
 
 \newpage
 
@@ -316,30 +315,31 @@ As in every visualization, there are several elements at stake in bringing infor
     \includegraphics[width=\linewidth]{preset-50-7.jpg}%\par 
     \includegraphics[width=\linewidth]{preset-50-8.jpg}%\par 
 \end{multicols}
-\caption{Tracks 7-8 (below) and 15-16 (above).}
+\caption{Tracks 7-8 (below) and 15-16 (above). The color of the points displays Amplitude and Frequency in a different manner: Red and Blue act as a continuum of amplitude (Red being an amplitude of 1 and Blue an amplitude of 0) and Green shows Frequency (a higher frequency means more Green). The Alpha channel shows Phase information: the closer to $\pi$ the more visible, and the closer to -$\pi$, the more transparent it is.}
 \end{figure*}
 
 
 In order to plot the spectrum in time, the position array is built with  $x=\log (\mathit{frequency})$,  $y=\mathit{amplitude}$, and  $z=\mathit{time}$. Once these attributes are set, the VBO can be further manipulated (scaled, \ rotated, translated, etc), so some manipulations were made for the image to be rendered in a functional way (for example, in the center of the screen). Since the Z-axis holds time information, time-variation within the plot needs to be read from what is farthest to what is closests. Furthermore, since the amplitude is shown as a function of the frequency, the frequency space is rendered in an inverse way on the X-axis, the highest frequencies going towards the left and the lower ones towards the right. Finally, since amplitude is on the Y-axis, and since the rendered peaks appear as individual points, it is difficult to grasp at first sight where each point belongs to in a static image.\footnote{If one has control of the position of the VBO and the scale, then its three-dimensionality is grasped immediately.} 
 
-
-
-\begin{center}
-\begin{figure*}
-\includegraphics[width=3in]{foryoungears-img002.png}
-\caption{Spectrum of visible light.}
-\end{figure*}
-\end{center}
-
+%
+%
+%\begin{center}
+%\begin{figure*}
+%\includegraphics[width=3in]{foryoungears-img002.png}
+%\caption{Spectrum of visible light.}
+%\end{figure*}
+%\end{center}
+%
 \newpage
-The color information is set as an Red, Green, Blue and Alpha (RGBA) normalized color array, and it is built as follows: $R=\mathit{rmstodb}(\mathit{amplitude})$;  $G=\log (\mathit{frequency})$;  $B=1-R$;  $A=\arctan (\Re ,\Im )$.\footnote{All of these values were normalized between 0-1.} This means several things. First of all, the transparency of the points (Alpha value) introduces the angle (or phase) of the peak, which can only be seen if the point size is rather large, so it was sacrificed for the display of the entire tracks. The rest of the values depend on the position information. Like the X-axis, the Green value is the logarithm (for visual scaling purposes) of the frequency, so if the point is towards the left of the screen it will have more Green than towards the left. The same happens to the Red value: like the Y-axis, more amplitude means more Red value. Finally, since color synthesis in the screen is additive, whenever these three value (RGB) increase altogether, they tend towards white, and if they decrease, they tend towards black. This is why the Blue value is the inverse of the Red, which means that less amplitude (and less Red) will provide more Blue value. Drawing a perceptual analogy with the color spectrum of visible light (figure 1), Green or Yellow can constitute the high frequency bands (the most visible, towards the center), and Blue or Red the low frequency bands (the least visible, towards the edges).
+The color information is set as an Red, Green, Blue and Alpha (RGBA) normalized color array, and it is built as follows: $R=\mathit{rmstodb}(\mathit{amplitude})$;  $G=\log (\mathit{frequency})$;  $B=1-R$;  $A=\arctan (\Re ,\Im )$.\footnote{All of these values were normalized between 0-1.} This means several things. First of all, the transparency of the points (Alpha value) introduces the angle (or phase) of the peak.\footnote{The impact of phase in timbre seems to be more prominent for frequencies below 200 Hz (Park, 2004). In these visualizations, however, transparency can only be seen by enlarging the time axis and the point sizes, and the linear mapping of phase to the alpha channel was done without consideration to the above mentioned research.} 
+ The rest of the values depend on the position information. Like the X-axis, the Green value is the logarithm (for visual scaling purposes) of the frequency, so if the point is towards the left of the screen it will have more Green than towards the left. The same happens to the Red value: like the Y-axis, more amplitude means more Red value. Finally, since color synthesis in the screen is additive, whenever these three value (RGB) increase altogether, they tend towards white, and if they decrease, they tend towards black. This is why the Blue value is the inverse of the Red, which means that less amplitude (and less Red) will provide more Blue value. Drawing a perceptual analogy with the color spectrum of visible light (figure 1), Green or Yellow can constitute the high frequency bands (the most visible, towards the center), and Blue or Red the low frequency bands (the least visible, towards the edges).
 
-\bigskip
-At this point it is worth mentioning the Cyan line along the highest frequency band. Since it is known to be high-frequency noise resulting from the windowing of the analysis, what is worth noting is whenever this line is absent. The Cyan line means that while it is present, either silence or very small grains of sound are present in other regions of the spectrum. This line, despite the fact that it emerges out of an analytical misfortune, shows the void in each track and it is evidence of her treatment 
+\paragraph{Cyan Line}
+There are a few elements to consider when describing the Cyan line that runs accross the entire visualization, occupying a band from the highest frequecy analyzed with [sigmund\~{}] (here 16 kHz) to about 7 kHz. At first, I thought it to be simply high-frequency noise resulting from the windowing of the analysis. However, it has been noted the possibility of this being peak analysis of what is called `dither', a small amount of noise added by multitrack audio softwares to compensate for quantization errors from bit resolution reduction.\footnote{ After conducting several tests, it seems that there is indeed a band of pseudorandom numbers that constitute an inaudible noise in the range above 7 kHz in all of the tracks. I kindly thank Dr. Jaime Oliver for this suggestion. See https://en.wikipedia.org/wiki/Dither\#Digital\_audio} Nevertherless, despite the fact that it emerges out of an analytical misfortune, what this line reveals is the void in each track and it is evidence of her treatment of silence and orchestration throughtout the piece. Whenever the Cyan line is present it is when dithering is present, that is, when there is silence in the track. While within a stereo image, the Cyan lines draw almost parallel patterns (revealing once again the paired construction), when comparing between stereo images, they reveal very different patterns: visual evidence of the spatial distribution of energy. In my opinion, it is this abundance of \emph{cyan} within each track what allows the overall pristine quality of the sound which is why I dedicated so much visual presence to this line. 
 \begin{figure*}
 \begin{center}
 \includegraphics[width=1.5161in,height=1.5161in]{foryoungears-img004.png}
- \caption{Color synthesis chart: In general, quiet sounds will have Blue tonality, loud sounds will be Red, and high-pitched sounds will have high frequency content, so if a sound is high and loud it will be Yellow, if it's low and quiet it will be around Magenta and if it is high and quiet, Cyan.}
+ \caption{Color synthesis chart: In general, from these visualizations, quiet sounds will have Blue tonality, loud sounds will be Red, and high-pitched sounds will have high frequency content, so if a sound is high and loud it will be Yellow, if it's low and quiet it will be around Magenta and if it is high and quiet, Cyan.}
 \end{center}
 \end{figure*}
 
@@ -372,14 +372,17 @@ In trying to visualize \textit{Marelle}, considering the fact that tracks needed
 
 As an example of this distribution, I'd like to focus on the middle section of tracks 15 and 16. The greatest salience in figure 4 is in tracks 15-16 (above): around the center of the image (the middle of the piece) there appears a very expressive bridge-like shape covering a rather large time frame and a large section of the mid-low frequency band. When compared to the rest of the tracks, while there certainly are some similar shapes in that same moment in tracks 5,6,9 and 10, one can see that the closest shape resembling this salience is in track 12 (figure 2, above-right). What is more, while this shape is taking place, one sees in 1,2,3,4,11,13 and 14, similar shapes in the higher frequencies, but with less amplitude. Finally, the two remaining tracks (7-8) show a very different behavior altogether: set of higher frequency bands are displayed (in yellow). Ultimately, what this particularly complex distribution of energy shows is a multidimensional sculpting of an aural image.
 
+I would also like at this point to perform some sort of criticism. In the last image of this response, I place one of my favorite sounds in this piece, what I call a `bird' sound: a loud and very high frequency sound sweeping irregularly from 10 to 14 kHz.q This sound which appears on track 15 is replicated with some very minimal decorrelation (14 milliseconds) in track 16 (i.e., from left to right in this stereo image). Although this is a well known technique for stereo (Kendall, 1995; Vaggione, 2001), and it is evident that its effectiveness and beauty is out of the question, I wonder if this decorrelation had been not with in its adjacent pair, but within the speakers no.15 and 9, or between 15 and 9 and 3, or between $1$ and $N-1$ peakers. What I mean to suggest here is not that there is a fault in the piece, merely that however efective it is, there is some degree of loss in translating one technique (stereo imaging) from one medium (stereo) into another (16 speaker array with elevation).\footnote{This analogy with language is also one of the reasons why there is a text in spanish traversing this response.}
 
 \bigskip
+
+
 \begin{flushright}
 \textit{My greatest pleasure when listening to this piece came through the rhythmic treatment. She managed to build conglomerates of gestures on top of each other, flying from one side of the room to the other, from one band of the spectrum to the other; reflecting, rotating and intertwining bright shapes, all  engaging in contrapunctal phrases, evoking simultaneously elaborate medieval poliphonies and the sound of sand.}
 \end{flushright}
 \newpage
 
-This distribution of spectromorphologies --to borrow Denis Smalley's famous concept-- prove that \textit{Marelle} ``seeks to embrace the full spectral potential of the wide-open sound world'' (Smalley, 1997). In other words, her exploration of spectral space, as displayed in these visualizations, can be understood as a gesture towards the limits of perception. When Justel populates with energy the extremes of the frequency space, she sets forth two different aesthetic agents. The agency of these bands, however, is given by the composer in the shapes she builds within these spectral areas: the hand-crafted use of amplitude. Each one has a singular treatment that can only be achieved by a very tight feedback with the resulting sound. It is this minutious treatment of Form within the distinct spectral regions what gives expressiveness and an idea of unity between the two extremes, which in turn means cohesion and operational coherence. Going one step further, Justel's craft resides not only in her elaborate technical skills, but also in her ability to project this union of the extremes as a metaphor of life. The player of Hopscotch = Marelle = Rayuela --as Julio Cort\'{a}zar's description reads-- starts from \emph{Earth} and plays through space with a stone, hopping unpredictably until she reaches a \emph{Sky}.
+This distribution of \emph{spectromorphologies} --to borrow Denis Smalley's famous concept-- prove that \textit{Marelle} ``seeks to embrace the full spectral potential of the wide-open sound world'' (Smalley, 1997). In other words, her exploration of spectral space, as displayed in these visualizations, can be understood as a gesture towards the limits of perception. When Dr. Justel populates with energy the extremes of the frequency space, she sets forth two different aesthetic agents. The agency of these bands, however, is given by the composer in the shapes she builds within these spectral areas: the hand-crafted use of amplitude. Each one has a singular treatment that can only be achieved by a very tight feedback with the resulting sound. It is this extremely detailed treatment of Form within the distinct spectral regions what gives expressiveness and an idea of unity between the two extremes, which in turn means cohesion and operational coherence. Going one step further, Dr. Justel's craft resides not only in her elaborate technical skills, but also in her ability to project this union of the extremes as a metaphor of life. The player of Hopscotch = Marelle = Rayuela --as Julio Cort\'{a}zar's description reads-- starts from \emph{Earth} and plays through space with a stone, hopping unpredictably until she reaches a \emph{Sky}.
 
 \bigskip
 
@@ -388,7 +391,7 @@ This distribution of spectromorphologies --to borrow Denis Smalley's famous conc
     \includegraphics[width=\linewidth]{preset-31-elsa-7100000.jpg}%\par
     \includegraphics[width=\linewidth]{preset-56-elsa-7300000.jpg}%\par
 \end{multicols}
-\caption{Track 15:2'48'' capture of 48000 samples(above). Bird}
+\caption{Track 15:2'48'' capture of 48000 samples (above). Bird sound.}
 \end{figure*}
 
 
@@ -403,11 +406,19 @@ At points, one can hear some source material almost unfiltered but in most cases
 se olvida que para llegar al Cielo se necesitan, como ingredientes, una piedrita y la punta de un zapato.''\footnote{Chapter 36 (Cort\'{a}zar,1963)}
 
 
-\bigskip
+
 \bigskip
 \bigskip
 
 I first heard Elsa Justel's \textit{Marelle} at the New York City Electroacoustic Music Festival NYCEMF, in June 2017. It was performed at the Experimental Music Theatre of the Abrons Art Center. After the concert I approached her and congratulated her, and she said: ``this is for young ears''.
+\bigskip
+\bigskip
+\paragraph{Coda}
+\textit{
+Dr. Hoffmann: ``Finally : for young ears.  Say more: what did Elsa mean? do you agree?''\footnote{Taken of an email from Dr. Elizabeth Hoffman}}
+\bigskip
+
+During that very quick moment after her performance, I took her words to mean that given the amount of activity in the high register, and the abundance of spatial motion, \emph{Marelle} would appeal, in her opinion, to the younger generation of today. At one point I considered Presbycusis\footnote{https://en.wikipedia.org/wiki/Presbycusis} as an age delimiter (the bird, for example, might not be heard by ``old'' ears). However, I resist to think this way. I believe that in her mind she is addressing youth, not as a sector of society, but as an aesthetic agent. Youth becomes the driving force in her exploration of sound and space: with these ears, every sound is a new world; every movement, a new way of being; every moment, a constant \emph{now}. Within the spectral playground she created, I would even suggest the following: The playfulness with which she approaches space throughout the piece is as intense as the seriousnes with which a kid would attempt to reach the sky during recess.
 
 \includepdf[pages={1}]{../pdf/sub-7.pdf}
 
